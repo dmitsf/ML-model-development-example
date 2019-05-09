@@ -28,4 +28,4 @@ Example of a dataset analysis and ML model development
         Accuracy: 96.640
 	```
 
-    Note: Correct predictions metric - number of predictions with an absolute error <= 3.
+    Note: Correct predictions metric is a number of predictions with an absolute error <= 3.
